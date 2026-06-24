@@ -2,7 +2,7 @@
 
 **Current version:** Computer Science Written Exam — 200 QCM  
 **Author:** Assoumane Idi Ismaël  
-**Contact:** ismaël.idi@um6p.ma
+**Contact:** ismael.idi@um6p.ma
 
 ## Project purpose
 
@@ -141,7 +141,7 @@ See:
 Created by:
 
 **Assoumane Idi Ismaël**  
-**ismaël.idi@um6p.ma**
+**ismael.idi@um6p.ma**
 
 ## Disclaimer
 
