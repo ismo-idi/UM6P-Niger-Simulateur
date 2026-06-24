@@ -43,7 +43,7 @@ Any authorized use must clearly credit:
 
 **UM6P-Niger Simulateurs de Concours (écrit, oral)**  
 Created by **Assoumane Idi Ismaël**  
-Contact: **ismaël.idi@um6p.ma**
+Contact: **ismael.idi@um6p.ma**
 
 Attribution must remain visible in the interface, documentation, and any redistributed or adapted material.
 
