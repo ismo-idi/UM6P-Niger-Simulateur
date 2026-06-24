@@ -33,7 +33,7 @@ You may not, without prior written permission from the author:
 To request permission for duplication, adaptation, redistribution, institutional use, collaboration, translation, or any derivative work, contact:
 
 **Assoumane Idi Ismaël**  
-**ismaël.idi@um6p.ma**
+**ismael.idi@um6p.ma**
 
 Permission must be granted in writing before any such use.
 
