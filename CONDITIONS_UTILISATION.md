@@ -2,7 +2,7 @@
 
 Projet : **UM6P-Niger Simulateurs de Concours (écrit, oral)**  
 Auteur : **Assoumane Idi Ismaël**  
-Contact : **ismaël.idi@um6p.ma**
+Contact : **ismael.idi@um6p.ma**
 
 En accédant à ce projet, en l’utilisant, en le partageant ou en le consultant, vous acceptez les conditions suivantes.
 
@@ -40,7 +40,7 @@ Cependant, les utilisateurs doivent vérifier les informations importantes aupr�
 
 Pour signaler une erreur ou suggérer une correction, contactez :
 
-**ismaël.idi@um6p.ma**
+**ismael.idi@um6p.ma**
 
 ## 5. Partage du projet
 
@@ -55,7 +55,7 @@ Toute duplication, copie, reproduction, réhébergement, modification, adaptatio
 Les demandes d’autorisation doivent être envoyées à :
 
 **Assoumane Idi Ismaël**  
-**ismaël.idi@um6p.ma**
+**ismael.idi@um6p.ma**
 
 ## 7. Usages interdits
 
