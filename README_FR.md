@@ -2,7 +2,7 @@
 
 **Version actuelle :** Computer Science — Épreuve écrite — 200 QCM  
 **Auteur :** Assoumane Idi Ismaël  
-**Contact :** ismaël.idi@um6p.ma
+**Contact :** ismael.idi@um6p.ma
 
 ## Objectif du projet
 
@@ -141,7 +141,7 @@ Voir :
 Réalisé par :
 
 **Assoumane Idi Ismaël**  
-**ismaël.idi@um6p.ma**
+**ismel.idi@um6p.ma**
 
 ## Avertissement
 
