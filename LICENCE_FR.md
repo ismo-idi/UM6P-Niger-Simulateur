@@ -33,7 +33,7 @@ Vous ne pouvez pas, sans autorisation écrite préalable de l’auteur :
 Pour demander une autorisation de duplication, adaptation, redistribution, utilisation institutionnelle, collaboration, traduction ou création d’une œuvre dérivée, contactez :
 
 **Assoumane Idi Ismaël**  
-**ismaël.idi@um6p.ma**
+**ismael.idi@um6p.ma**
 
 L’autorisation doit être accordée par écrit avant toute utilisation concernée.
 
@@ -43,7 +43,7 @@ Toute utilisation autorisée doit clairement mentionner :
 
 **UM6P-Niger Simulateurs de Concours (écrit, oral)**  
 Réalisé par **Assoumane Idi Ismaël**  
-Contact : **ismaël.idi@um6p.ma**
+Contact : **ismael.idi@um6p.ma**
 
 L’attribution doit rester visible dans l’interface, la documentation et tout contenu redistribué ou adapté.
 
